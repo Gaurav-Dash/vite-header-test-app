@@ -1,0 +1,7 @@
+export const MENU_TYPES = {
+  MEGA: 'MEGA',
+  MEGA_COMPACT: 'MEGA_COMPACT',
+  LINK_HIGHLIGHT: 'LINK_HIGHLIGHT',
+  LIST: 'LIST',
+  LINK: 'LINK',
+} as const;

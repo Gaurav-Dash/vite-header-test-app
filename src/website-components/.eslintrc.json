@@ -1,0 +1,3 @@
+{
+    "extends": ["@sprinklr/eslint-config-sprinklr-com"]
+}

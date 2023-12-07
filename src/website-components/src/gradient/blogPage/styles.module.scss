@@ -1,0 +1,40 @@
+.circle {
+  border-radius: 50%;
+  flex: 0 0 auto;
+  position: absolute;
+  top: 0;
+  display: block;
+  //@media screen and (min-width: 1250px) {
+  //  display: block;
+  //}
+}
+
+
+.yellow {
+  left: 0;
+  background: #FAA21B;
+  height: 10vw;
+  width: 30vw;
+  filter: blur(46px);
+  transform: translate3d(0px, -90%, 0);
+  z-index: 2;
+}
+
+.green {
+  background: #70BF54;
+  height: 10vw;
+  width: 40vw;
+  filter: blur(35px);
+  transform: translate3d(-80%, -70%, 0);
+  left: 50%;
+}
+
+.blue {
+  right: 0;
+  background: #00BAE9;
+  height: 15vw;
+  width: 57vw;
+  filter: blur(50px);
+  transform: translate3d(5%, -80%, 0);
+
+}

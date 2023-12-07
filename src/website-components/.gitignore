@@ -1,0 +1,14 @@
+node_modules/
+npm-debug.log
+package-lock.json
+
+# Build folders
+lib/
+dist/
+build/
+
+# IDE project folders
+.idea
+
+# OS Files
+.DS_Store
